@@ -28,4 +28,8 @@ Are you ready to embark on this coding adventure with me? Whether you're a seaso
 
 ---
 
+<<<<<<< HEAD
 Feel free to tweak and personalize this README to reflect your unique journey and personality!
+=======
+Feel free to tweak and personalize this README to reflect your unique journey and personality!
+>>>>>>> c09b9c7d70453ee9224560fd14137496c0e76bfb
