@@ -25,11 +25,3 @@ I'll be documenting my journey on social media using the hashtag #100DaysOfCodin
 ## Join Me!
 
 Are you ready to embark on this coding adventure with me? Whether you're a seasoned developer or a beginner like me, there's always something new to learn and explore in the world of coding. So, let's fork this repository, roll up our sleeves, and dive into 100 days of coding projects together!
-
----
-
-<<<<<<< HEAD
-Feel free to tweak and personalize this README to reflect your unique journey and personality!
-=======
-Feel free to tweak and personalize this README to reflect your unique journey and personality!
->>>>>>> c09b9c7d70453ee9224560fd14137496c0e76bfb
