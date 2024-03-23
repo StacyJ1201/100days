@@ -19,7 +19,6 @@ for i in range(size - amount_of_num - amount_of_symbols):
     password += random.choice(letters)
 
 random.shuffle(password)
-
 password = "".join(password)
 
 

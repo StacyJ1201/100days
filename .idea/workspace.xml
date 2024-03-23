@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79928c86-43dc-4ebe-9b72-d582e98f4cc4" name="Changes" comment="Added Rock paper Scissors" />
+    <list default="true" id="79928c86-43dc-4ebe-9b72-d582e98f4cc4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/PasswordGenerator.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +74,7 @@
       <workItem from="1709587853450" duration="15000" />
       <workItem from="1710103741341" duration="32000" />
       <workItem from="1710103778805" duration="1185000" />
-      <workItem from="1710104969352" duration="6952000" />
+      <workItem from="1710104969352" duration="7641000" />
     </task>
     <task id="LOCAL-00001" summary="fixed the end of README.md">
       <option name="closed" value="true" />
